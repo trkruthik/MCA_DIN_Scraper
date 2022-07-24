@@ -12,7 +12,7 @@ This is a program written in python to scrape DIN data from MCA public data. It 
 
 ## Usage
 
-Create a Spreadsheet file called "Book1.xlsx" and input all CIN into column 1.
+Create a Spreadsheet file called "Book1.xlsx" and input all CIN into column 1 (Look at Example.xlsx for an idea on the input and output structure).
 
 Run the python program. 
 
